@@ -5,7 +5,7 @@
   <groupId>mavproject2</groupId>
   <artifactId>sampleproject2</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>92.0-SNAPSHOT</version>
   <name>sampleproject2</name>
   <url>http://maven.apache.org</url>
 
@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>sampleproject2</finalName>
+    <finalName>pandu11</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
